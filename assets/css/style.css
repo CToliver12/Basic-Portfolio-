@@ -64,7 +64,7 @@ header{
 /*selectors for nav content*/
 nav{
 	height:20px;
-	width: 426px;
+	width: 350px;
 	display:flex;
 	justify-content: center;
 }
