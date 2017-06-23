@@ -1,2 +1,6 @@
 # Basic-Portfolio-
-Homework Portfolio
+My Portfolio!  
+
+Technologies used 
+* HTML
+* CSS  
