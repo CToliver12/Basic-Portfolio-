@@ -10,9 +10,6 @@ html,body{
 	height: 100%;
 	margin: 0 auto -109px;
 }
-.push{
-	height: 109px;
-}
 /*selectors for all HTML tags across all pages*/
 body{
 	background: url('../images/fabric.png') #ffffff;
@@ -100,13 +97,13 @@ section{
 	width:588px;
 	border: 0px solid;
 	background-color: #ffffff;
-	margin-bottom: 250;
+	margin-bottom: 40px;
 	margin-right: 40px;
 	border-color: #dddddd;
 }
 section p {
 	line-height: 190%;
-	font-size: 18px;
+	font-size: 17px;
 }
 #profile_pic{
 	margin-right:20px;
@@ -167,7 +164,7 @@ form{
 input,textarea{
 	border: 1px solid #dddddd;
 	width: 550px;
-	height: 16px;
+	height: 5px;
 	margin-top: 7px;
 	padding: 9px 9px 9px 9px;
 	font-size: 14px;
